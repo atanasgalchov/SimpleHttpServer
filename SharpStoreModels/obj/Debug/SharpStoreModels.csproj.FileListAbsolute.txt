@@ -1,0 +1,5 @@
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreModels\bin\Debug\SharpStoreModels.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreModels\bin\Debug\SharpStoreModels.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreModels\obj\Debug\SharpStoreModels.csprojResolveAssemblyReference.cache
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreModels\obj\Debug\SharpStoreModels.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreModels\obj\Debug\SharpStoreModels.pdb

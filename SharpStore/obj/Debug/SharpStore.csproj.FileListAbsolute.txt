@@ -1,0 +1,21 @@
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe.config
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\Resources\Pages\404.html
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\Resources\Pages\500.html
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SimpleHttpServer.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SimpleHttpServer.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.csprojResolveAssemblyReference.cache
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.exe
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStoreData.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStoreModels.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\EntityFramework.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStoreData.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStoreModels.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\EntityFramework.xml
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IFun\IProgram\GitHubRepository\SimpleHttpServer\SharpStore\bin\Debug\SharpStore.exe.config
+C:\Users\IFun\IProgram\GitHubRepository\SimpleHttpServer\SharpStore\obj\Debug\SharpStore.exe
+C:\Users\IFun\IProgram\GitHubRepository\SimpleHttpServer\SharpStore\obj\Debug\SharpStore.pdb

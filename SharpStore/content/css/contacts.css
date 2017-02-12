@@ -1,0 +1,10 @@
+.content{
+    padding-left: 120px;
+}
+.navbar{
+    
+    color: greenyellow;
+    background-color: gray;
+    user-select: inherit;
+
+}

@@ -1,0 +1,14 @@
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\EntityFramework.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SharpStoreData.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SharpStoreModels.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SharpStoreData.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SharpStoreModels.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SimpleHttpServer\bin\Debug\EntityFramework.xml

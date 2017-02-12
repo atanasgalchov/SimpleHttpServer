@@ -1,0 +1,12 @@
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\SharpStoreData.dll.config
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\SharpStoreData.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\SharpStoreData.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\EntityFramework.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\SharpStoreModels.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\SharpStoreModels.pdb
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\EntityFramework.xml
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\obj\Debug\SharpStoreData.csprojResolveAssemblyReference.cache
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\obj\Debug\SharpStoreData.dll
+C:\Users\IFun\IProgram\C# Web Fundamentals\Hand-MadeWebServerSharpSore\SharpStore-Skeleton\SharpStoreData\obj\Debug\SharpStoreData.pdb
